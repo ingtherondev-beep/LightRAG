@@ -4,6 +4,7 @@
   <img src="./assets/logo.png" width="120" height="120" alt="LightRAG Logo" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0, 217, 255, 0.3);">
 </div>
 
+#Test
 # 🚀 LightRAG: Simple and Fast Retrieval-Augmented Generation
 
 <div align="center">
